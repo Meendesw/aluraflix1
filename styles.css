@@ -1,0 +1,14 @@
+body {
+    color: rgb(8, 175, 8);
+    background: whitesmoke
+    margin: 0px;
+    font-family: font-family: "Playfair Display", serif;
+    margin-bottom: 100px;
+}
+
+header {
+    border-bottom: solid 2px rgb(8, 175, 8);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(8, 175, 8);
+}
