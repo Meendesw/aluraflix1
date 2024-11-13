@@ -1,14 +1,22 @@
 body {
-    color: rgb(8, 175, 8);
-    background: whitesmoke;
+    color: rgb(57, 88, 117);
+    background:rgb(228, 238, 247);
     margin: 0px;
     font-family: "Playfair Display", serif;
     margin-bottom: 100px;
 }
 
 header {
-    border-bottom: solid 2px rgb(8, 175, 8);
-    padding: 20px;
+    border-bottom: solid 2px rgb(228, 238, 247);
+    padding: 20px; 
     font-size: 32px;
-    color: rgb(8, 175, 8);
+    color: rgb(228, 238, 247);
+} 
+
+.chamada {
+    background: rgb(228, 238, 247);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
